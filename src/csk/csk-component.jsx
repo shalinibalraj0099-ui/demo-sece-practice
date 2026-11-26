@@ -1,4 +1,3 @@
-import react from "react";
 const CskComponent = () => {
   return <h1>Chennai super kings</h1>;
 };
